@@ -1,0 +1,819 @@
+prioritize – öncelik vermek
+probable – muhtemel
+proceed – devam etmek
+process – süreç / işlem
+proclaim – ilan etmek
+procure – sağlamak / temin etmek
+produce – üretmek
+professional – mesleki / profesyonel
+profitable – kârlı
+prominent – öne çıkan / önemli
+promote – teşvik etmek / desteklemek
+prompt – çabuk / hemen
+pronounce – telaffuz etmek / ilan etmek
+proportion – oran / kısım
+prospective – olası / potansiyel
+prosper – başarılı olmak / gelişmek
+protect – korumak
+protest – protesto etmek
+provide – sağlamak
+public – halk / kamu
+publish – yayınlamak
+purpose – amaç
+pursue – takip etmek / sürdürmek
+qualify – nitelikli olmak / hak kazanmak
+quality – kalite / nitelik
+quantify – ölçmek / sayısallaştırmak
+radical – köklü / radikal
+range – aralık / çeşit
+rational – mantıklı
+react – tepki göstermek
+reason – sebep / mantık
+rebalance – yeniden dengelemek
+rebound – toparlanmak / geri dönmek
+recall – hatırlamak / geri çağırmak
+receive – almak
+recognize – tanımak / kabul etmek
+recommend – tavsiye etmek
+record – kaydetmek / kayıt
+recover – iyileşmek / toparlanmak
+recruit – işe almak / almak
+reduce – azaltmak
+refer – atıfta bulunmak / başvurmak
+reflect – yansıtmak / düşünmek
+reform – reform yapmak
+refute – çürütmek / reddetmek
+regard – saymak / bakmak
+regulate – düzenlemek
+reinforce – güçlendirmek
+reject – reddetmek
+relate – ilişkilendirmek
+relevant – ilgili
+rely – güvenmek
+remain – kalmak
+remark – yorum yapmak / belirtmek
+remedy – çözüm / çare
+remind – hatırlatmak
+remove – kaldırmak
+render – yapmak / sağlamak
+repair – onarmak
+replace – yerine koymak
+represent – temsil etmek
+reproduce – çoğaltmak
+require – gerektirmek
+research – araştırmak / araştırma
+reside – ikamet etmek
+resist – direnmek
+resolve – çözmek / karara bağlamak
+respect – saygı göstermek
+respond – yanıtlamak
+restore – geri getirmek
+restrict – kısıtlamak
+result – sonuç
+retain – sürdürmek
+reveal – ortaya çıkarmak
+reverse – tersine çevirmek
+review – gözden geçirmek
+revise – gözden geçirmek / düzeltmek
+revolution – devrim
+rigorous – titiz / sıkı
+role – rol
+rough – kabaca / pürüzlü
+rule – kural
+satisfy – tatmin etmek
+schedule – programlamak
+scope – kapsam / alan
+sector – sektör / alan
+secure – güvence altına almak
+seek – aramak
+select – seçmek
+sequence – sıra / dizi
+shift – değişim / kayma
+significant – önemli
+similar – benzer
+simulate – benzetim yapmak / taklit etmek
+simultaneous – eş zamanlı
+site – yer / alan
+slightly – hafifçe / biraz
+solution – çözüm
+source – kaynak
+specify – belirtmek
+impact – etki
+implement – uygulamak
+imply – ima etmek
+impose – dayatmak
+incentive – teşvik
+incline – eğilimli olmak
+include – içermek
+income – gelir
+incorporate – dahil etmek
+increase – artırmak
+indicate – göstermek
+indirect – dolaylı
+individual – birey / bireysel
+induce – neden olmak / ikna etmek
+inevitable – kaçınılmaz
+influence – etkilemek
+inform – bilgilendirmek
+initial – ilk / başlangıç
+initiative – girişim
+innovate – yenilik yapmak
+innovation – yenilik
+input – girdi / katkı
+insight – içgörü
+inspect – incelemek
+instance – örnek
+integrate – bütünleştirmek / entegre etmek
+intellectual – entelektüel / zihinsel
+intense – yoğun
+interact – etkileşim kurmak
+interest – ilgi / faiz
+internal – iç
+interpret – yorumlamak
+intervene – müdahale etmek
+invest – yatırım yapmak
+investigate – araştırmak
+involve – kapsamak / içermek
+issue – konu / sorun
+item – madde / öğe
+justify – haklı çıkarmak
+label – etiketlemek
+layer – katman
+lead – öncülük etmek / yol göstermek
+legislate – yasalaştırmak
+legitimate – meşru / yasal
+link – bağ / ilişki kurmak
+location – konum
+logic – mantık
+maintain – sürdürmek
+major – ana / büyük
+manipulate – yönetmek / manipüle etmek
+margin – kenar / marj
+mechanism – mekanizma
+mediate – arabuluculuk yapmak
+mental – zihinsel
+method – yöntem
+migrate – göç etmek
+minimize – azaltmak / en aza indirmek
+monitor – izlemek
+motivate – motive etmek
+mutual – karşılıklı
+neglect – ihmal etmek
+neutral – tarafsız
+network – ağ
+notable – dikkate değer
+notion – fikir / kavram
+objective – amaç / nesnel
+obtain – elde etmek
+occupy – işgal etmek
+offset – dengelemek
+ongoing – devam eden
+option – seçenek
+orient – yönlendirmek
+output – çıktı
+overall – genel olarak
+overlap – örtüşmek
+panel – kurul / grup
+parameter – parametre
+participate – katılmak
+particular – özel / belirli
+perceive – algılamak
+perform – yapmak / yerine getirmek
+persist – devam etmek / ısrar etmek
+perspective – bakış açısı
+phenomenon – olgu / fenomen
+policy – politika
+portion – bölüm / parça
+pose – oluşturmak / poz vermek
+potential – potansiyel
+precede – önce gelmek
+precise – kesin
+predict – tahmin etmek
+preliminary – ön / ilk
+prescribe – reçetelemek / önermek
+presence – varlık
+preserve – korumak
+presume – varsaymak
+previous – önceki
+primary – birincil / temel
+prior – önceki
+priority – öncelik
+debate – tartışma
+decade – on yıl
+decisive – belirleyici
+declare – ilan etmek / duyurmak
+dedicate – adamak
+defend – savunmak
+define – tanımlamak
+definite – kesin
+demonstrate – göstermek
+denote – belirtmek
+depend – bağlı olmak
+depict – tasvir etmek / göstermek
+derive – türetmek / elde etmek
+descend – inmek / soyundan gelmek
+describe – tanımlamak
+design – tasarlamak
+desire – arzu etmek
+despite – rağmen
+detect – tespit etmek
+determine – belirlemek
+devote – adamak
+differ – farklı olmak
+dimension – boyut
+diminish – azaltmak
+direct – yönlendirmek
+disclose – açıklamak
+discriminate – ayırt etmek / ayrım yapmak
+discuss – tartışmak
+disease – hastalık
+dismiss – reddetmek / işten çıkarmak
+display – göstermek / sergilemek
+dispose – elden çıkarmak
+distinct – farklı / belirgin
+distinguish – ayırt etmek
+distribute – dağıtmak
+diverse – çeşitli
+divert – yön değiştirmek / saptırmak
+document – belgelemek
+dominate – hakim olmak
+drastic – sert / köklü
+duplicate – kopyalamak
+dynamic – dinamik
+economic – ekonomik
+edit – düzenlemek
+effective – etkili
+elaborate – ayrıntılı
+element – öğe / unsur
+eliminate – ortadan kaldırmak
+emerge – ortaya çıkmak
+emphasize – vurgulamak
+empirical – deneysel
+enable – mümkün kılmak
+encounter – karşılaşmak
+encourage – teşvik etmek
+enhance – artırmak / geliştirmek
+enormous – büyük / muazzam
+ensure – sağlamak / garanti etmek
+entail – gerektirmek
+entire – tüm / bütün
+entity – varlık
+equivalent – eşdeğer
+establish – kurmak / oluşturmak
+estimate – tahmin etmek
+evaluate – değerlendirmek
+evidence – kanıt
+evolution – evrim
+exceed – aşmak
+exclude – hariç tutmak
+expand – genişletmek
+expect – beklemek
+explicit – açık / net
+exploit – kullanmak
+expose – maruz bırakmak
+external – dışsal
+extract – çıkarmak
+facilitate – kolaylaştırmak
+factor – etken / faktör
+feature – özellik
+federal – federal
+feedback – geri bildirim
+feasible – uygulanabilir
+finance – finans / para yönetimi
+focus – odaklanmak
+format – biçim
+formulate – oluşturmak / formüle etmek
+foundation – temel / vakıf
+framework – çerçeve
+function – işlev
+fundamental – temel
+generate – üretmek
+global – küresel
+goal – hedef
+gradual – kademeli / yavaş
+guideline – yönerge
+highlight – vurgulamak
+hypothesis – hipotez
+identify – tanımlamak / belirlemek
+ignore – görmezden gelmek
+illustrate – örneklemek / göstermek
+constitute – oluşturmak
+constrain – kısıtlamak
+construct – inşa etmek / kurmak
+consult – danışmak
+consume – tüketmek
+contemporary – çağdaş
+context – bağlam
+contradict – çelişmek
+contribute – katkıda bulunmak
+controversial – tartışmalı
+conventional – geleneksel
+convert – dönüştürmek
+cooperate – iş birliği yapmak
+coordinate – koordine etmek
+core – çekirdek / temel
+corporate – kurumsal
+correspond – karşılık gelmek
+criteria – ölçütler
+crucial – kritik / önemli
+cumulative – birikimli
+compile – derlemek
+complement – tamamlamak
+comprehensive – kapsamlı
+comprise – içermek
+compute – hesaplamak
+conceive – tasarlamak
+concentrate – yoğunlaşmak
+concept – kavram
+conclude – sonuçlandırmak
+concurrent – eş zamanlı
+conduct – yürütmek
+confer – sağlamak / danışmak
+confine – sınırlamak
+confirm – doğrulamak
+conform – uymak
+consent – izin vermek
+consequence – sonuç
+considerable – kayda değer / önemli
+consistent – tutarlı
+constant – sürekli / sabit
+attribute – atfetmek
+beneficial – faydalı
+bias – önyargı
+brief – kısa / özet
+capable – yetenekli
+capacity – kapasite
+cease – durdurmak / sona ermek
+channel – kanal / yol
+circumstance – durum / koşul
+cite – alıntı yapmak
+coherent – tutarlı
+coincide – çakışmak
+collapse – çöküş / çökmek
+collective – toplu / ortak
+combine – birleştirmek
+comment – yorum yapmak
+commit – işlemek / adamak
+communicate – iletişim kurmak
+compatible – uyumlu
+compensate – telafi etmek
+withdraw – geri çekmek
+within – içinde
+without – olmadan
+yield – vermek / sağlamak
+abundant – bol
+acquire – edinmek
+adequate – yeterli
+adverse – olumsuz
+aggregate – toplam
+allocate – tahsis etmek
+alternative – alternatif
+apparent – açık / belirgin
+approximate – yaklaşık
+arbitrary – rastgele / keyfi
+artificial – yapay
+assess – değerlendirmek
+assign – atamak
+assume – varsaymak
+attach – eklemek / bağlamak
+attain – elde etmek
+undertake – üstlenmek
+unify – birleştirmek
+unique – benzersiz
+universal – evrensel
+unprecedented – eşi görülmemiş
+update – güncellemek
+useful – faydalı
+utilize – kullanmak
+valid – geçerli
+value – değer
+variety – çeşitlilik
+verify – doğrulamak
+version – versiyon
+viable – uygulanabilir
+view – görüş / bakış açısı
+virtually – neredeyse
+visual – görsel
+vital – hayati / önemli
+voluntary – gönüllü
+widespread – yaygın
+structure – yapı
+submit – sunmak / teslim etmek
+subsequent – sonraki
+sufficient – yeterli
+suggest – önermek
+summary – özet
+supply – sağlamak / tedarik
+support – desteklemek
+survey – anket / inceleme
+sustain – sürdürmek
+symbol – sembol
+target – hedef
+tend – eğiliminde olmak
+theory – teori
+topic – konu
+transfer – aktarmak
+transform – dönüştürmek
+trend – eğilim
+ultimate – nihai
+undergo – geçirmek / yaşamak
+distort – çarpıtmak
+distribute – dağıtmak
+diverse – çeşitli
+domestic – yerli / iç
+duration – süre
+dynamic – dinamik
+economical – ekonomik
+elaborate – ayrıntılı
+eliminate – ortadan kaldırmak
+emphasis – vurgu
+empirical – deneysel
+encounter – karşılaşmak
+enormous – çok büyük
+ensure – garanti etmek
+entity – varlık
+equivalent – eşdeğer
+erode – aşındırmak
+estimation – tahmin
+ethical – etik
+evolve – evrimleşmek
+conventional – geleneksel
+convert – dönüştürmek
+cooperate – iş birliği yapmak
+core – çekirdek / temel
+correspond – karşılık gelmek
+criterion – ölçüt
+crucial – kritik
+cumulative – birikimli
+currency – para birimi
+debate – tartışma
+deduce – sonuç çıkarmak
+deficiency – eksiklik
+derive – elde etmek
+designate – belirlemek
+detect – tespit etmek
+deviate – sapmak
+diminish – azalmak
+displace – yerinden etmek
+dispose – elden çıkarmak
+distinct – belirgin
+complement – tamamlamak
+comply – uymak
+comprehensive – kapsamlı
+compulsory – zorunlu
+conceive – tasarlamak
+concentrate – yoğunlaşmak
+confer – sağlamak / görüşmek
+confine – sınırlamak
+conform – uymak
+consensus – fikir birliği
+considerable – önemli / büyük
+consistent – tutarlı
+constitute – oluşturmak
+constraint – kısıtlama
+consult – danışmak
+consume – tüketmek
+contemporary – çağdaş
+context – bağlam
+contradict – çelişmek
+controversial – tartışmalı
+arise – ortaya çıkmak
+aspect – yön / boyut
+assemble – bir araya getirmek
+assumption – varsayım
+attach – bağlamak
+attainable – ulaşılabilir
+attribute – atfetmek
+awareness – farkındalık
+barrier – engel
+bias – önyargı
+capability – kapasite
+capacity – kapasite
+cease – sona ermek
+circumstance – durum / koşul
+coherent – tutarlı
+coincide – çakışmak
+collapse – çökmek
+commit – adamak / işlemek
+compatible – uyumlu
+compile – derlemek
+abandon – terk etmek
+abolish – kaldırmak (kanun vb.)
+absorb – emmek / içine almak
+accelerate – hızlandırmak
+accompany – eşlik etmek
+accumulate – biriktirmek
+acknowledge – kabul etmek
+adaptation – uyum
+adequately – yeterli şekilde
+adjacent – bitişik
+administer – yönetmek
+advocate – savunmak
+allocate – tahsis etmek
+alteration – değişiklik
+alternative – alternatif
+ambiguous – belirsiz
+amend – değiştirmek (resmi)
+anticipation – beklenti
+apparent – açık / belirgin
+apply – uygulamak
+improve – geliştirmek
+enhance – geliştirmek / güçlendirmek
+upgrade – yükseltmek
+optimize – optimize etmek
+refine – iyileştirmek
+revise – gözden geçirmek
+review – incelemek
+analyze – analiz etmek
+investigate – araştırmak
+explore – araştırmak
+discover – keşfetmek
+detect – tespit etmek
+observe – gözlemlemek
+monitor – izlemek
+measure – ölçmek
+calculate – hesaplamak
+estimate – tahmin etmek
+predict – öngörmek
+forecast – tahmin etmek
+anticipate – önceden tahmin etmek
+support – desteklemek
+encourage – teşvik etmek
+promote – teşvik etmek / desteklemek
+facilitate – kolaylaştırmak
+enable – mümkün kılmak
+allow – izin vermek
+permit – izin vermek
+prevent – engellemek
+avoid – kaçınmak
+reduce – azaltmak
+minimize – en aza indirmek
+maximize – en üst düzeye çıkarmak
+increase – artırmak
+decline – azalmak
+drop – düşmek
+rise – yükselmek
+grow – büyümek
+develop – gelişmek
+progress – ilerlemek
+advance – ilerlemek
+achieve – başarmak
+accomplish – gerçekleştirmek
+attain – elde etmek
+obtain – elde etmek
+acquire – edinmek
+secure – elde etmek / güvenceye almak
+earn – kazanmak
+win – kazanmak
+reach – ulaşmak
+meet – karşılamak
+fulfill – yerine getirmek
+satisfy – tatmin etmek
+solve – çözmek
+overcome – üstesinden gelmek
+handle – başa çıkmak
+manage – yönetmek
+control – kontrol etmek
+regulate – düzenlemek
+direct – yönlendirmek
+guide – rehberlik etmek
+combine – birleştirmek
+integrate – entegre etmek
+separate – ayırmak
+divide – bölmek
+distinguish – ayırt etmek
+differentiate – farklılaştırmak
+classify – sınıflandırmak
+categorize – kategorize etmek
+organize – düzenlemek
+arrange – düzenlemek
+structure – yapılandırmak
+construct – inşa etmek
+design – tasarlamak
+create – yaratmak
+produce – üretmek
+generate – üretmek / oluşturmak
+form – oluşturmak
+build – inşa etmek
+establish – kurmak
+found – kurmak
+adapt – uyum sağlamak
+adopt – benimsemek
+adjust – ayarlamak / uyum sağlamak
+alter – değiştirmek
+modify – değiştirmek
+transform – dönüştürmek
+replace – yerine koymak
+substitute – yerine kullanmak
+eliminate – ortadan kaldırmak
+remove – kaldırmak
+retain – korumak
+preserve – muhafaza etmek
+protect – korumak
+maintain – sürdürmek
+sustain – devam ettirmek
+strengthen – güçlendirmek
+weaken – zayıflatmak
+limit – sınırlamak
+restrict – kısıtlamak
+expand – genişletmek
+available – mevcut
+possible – mümkün
+likely – muhtemel
+unlikely – pek olası değil
+apparent – açık / belirgin
+obvious – bariz
+clear – açık
+uncertain – belirsiz
+varied – çeşitli
+limited – sınırlı
+sufficient – yeterli
+adequate – yeterli
+appropriate – uygun
+relevant – ilgili
+related – ilişkili
+independent – bağımsız
+dependent – bağımlı
+similarity – benzerlik
+difference – fark
+relationship – ilişki
+policy – politika
+strategy – strateji
+decision – karar
+management – yönetim
+organization – organizasyon
+institution – kurum
+government – hükümet
+authority – otorite
+law – yasa
+regulation – düzenleme
+agreement – anlaşma
+conflict – çatışma
+cooperation – iş birliği
+competition – rekabet
+market – piyasa
+economy – ekonomi
+industry – endüstri
+production – üretim
+consumption – tüketim
+distribution – dağıtım
+environment – çevre
+climate – iklim
+resource – kaynak
+energy – enerji
+population – nüfus
+community – topluluk
+society – toplum
+culture – kültür
+tradition – gelenek
+behavior – davranış
+attitude – tutum
+belief – inanç
+value – değer
+education – eğitim
+knowledge – bilgi
+skill – beceri
+technology – teknoloji
+innovation – yenilik
+invention – icat
+discovery – keşif
+challenge – meydan okumak / zorluk
+threat – tehdit
+risk – risk
+opportunity – fırsat
+advantage – avantaj
+disadvantage – dezavantaj
+benefit – fayda
+damage – zarar
+loss – kayıp
+gain – kazanç
+growth – büyüme
+decline – düşüş
+increase – artış
+reduction – azalma
+change – değişim
+shift – kayma / değişim
+transition – geçiş
+stage – aşama
+period – dönem
+era – çağ
+assume – varsaymak
+argue – savunmak / iddia etmek
+claim – iddia etmek
+propose – önermek
+predict – tahmin etmek
+estimate – tahmin etmek
+evaluate – değerlendirmek
+compare – karşılaştırmak
+contrast – karşılaştırmak / zıtlık göstermek
+describe – tanımlamak
+explain – açıklamak
+define – tanımlamak
+summarize – özetlemek
+conclude – sonuç çıkarmak
+confirm – doğrulamak
+reject – reddetmek
+accept – kabul etmek
+recognize – fark etmek
+observe – gözlemlemek
+notice – fark etmek
+cause – neden olmak
+lead to – yol açmak
+result in – sonuçlanmak
+depend on – bağlı olmak
+relate to – ilgili olmak
+focus on – odaklanmak
+consist of – oluşmak
+contribute to – katkıda bulunmak
+prevent – engellemek
+avoid – kaçınmak
+allow – izin vermek
+require – gerektirmek
+support – desteklemek
+affect – etkilemek
+influence – etkilemek
+provide – sağlamak
+obtain – elde etmek
+achieve – başarmak
+involve – içermek
+include – dahil etmek
+significant – önemli
+substantial – büyük / önemli
+crucial – kritik
+essential – gerekli
+reliable – güvenilir
+efficient – verimli
+effective – etkili
+potential – potansiyel
+rapid – hızlı
+gradual – kademeli
+widespread – yaygın
+common – yaygın
+dominant – baskın
+complex – karmaşık
+various – çeşitli
+numerous – çok sayıda
+major – büyük / önemli
+minor – küçük
+similar – benzer
+different – farklı
+evidence – kanıt
+approach – yaklaşım
+method – yöntem
+theory – teori
+concept – kavram
+factor – faktör
+issue – mesele
+impact – etki
+effect – etki
+result – sonuç
+process – süreç
+development – gelişim
+research – araştırma
+analysis – analiz
+data – veri
+finding – bulgu
+pattern – örüntü
+trend – eğilim
+structure – yapı
+system – sistem
+conduct – yürütmek
+reveal – ortaya çıkarmak
+indicate – göstermek
+suggest – öne sürmek
+demonstrate – kanıtlamak
+emerge – ortaya çıkmak
+occur – meydana gelmek
+maintain – sürdürmek / iddia etmek
+examine – incelemek
+assess – değerlendirmek
+identify – belirlemek
+determine – tespit etmek
+establish – kurmak / ortaya koymak
+develop – geliştirmek
+improve – geliştirmek
+increase – artırmak
+decrease – azaltmak
+reduce – düşürmek
+enhance – güçlendirmek
+expand – genişletmek
+although – rağmen
+however – ancak
+therefore – bu yüzden
+whereas – oysa ki
+moreover – ayrıca
+nevertheless – yine de
+thus – böylece
+consequently – sonuç olarak
+despite – -e rağmen
+in contrast – aksine
+on the other hand – öte yandan
+similarly – benzer şekilde
+likewise – aynı şekilde
+instead – yerine
+otherwise – aksi takdirde
+meanwhile – bu arada
+eventually – sonunda
+initially – başlangıçta
+subsequently – daha sonra
+currently – şu anda
